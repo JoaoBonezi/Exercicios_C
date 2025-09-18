@@ -25,5 +25,5 @@ int main(){
         i++;
     }
 
-    printf("Seu sálario eh R$ %.2f \n", soma);
+    printf("Seu salario eh R$ %.2f \n", soma);
 }
